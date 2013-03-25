@@ -1,0 +1,3 @@
+#!/bin/sh
+
+wget --no-check-certificate 'https://po-smtp1.temple.edu/cgi-bin/mdadmin.cgi/sa/reporting_mail_detailed.html?sessionid=2b6dd0f7f0fdd487e74f063395f13f622&rnd=32?pr_op=dump?repo_yearday=2008-115'
